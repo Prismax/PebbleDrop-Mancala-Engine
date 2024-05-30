@@ -1,5 +1,6 @@
 # PebbleDrop-Mancala-Engine
 PebbleDrop is a Matlab mancala engine, equipped with Monte Carlo Tree Search end Minimax algorithms to evaluate positions and choose moves at the best of the chosen settings and available computational power.
+
 %________________PEBBLEDROP ENGINE 1.0___________________
 % This is a Game Engine for the popular board game       |
 % known as Mancala, formally called Wari. The user is    |
